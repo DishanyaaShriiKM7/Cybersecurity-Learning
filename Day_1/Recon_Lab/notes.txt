@@ -1,0 +1,130 @@
+┌──(dishanyaa_shrii_k_m㉿kali)-[~]
+└─$ service bluetooth start
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~]
+└─$ ls -a                       
+.                 .config     .mozilla                   Videos
+..                Desktop     Music                      .viminfo
+.bash_history     Documents   new2                       .zprofile
+.bash_logout      Downloads   Pictures                   .zsh_history
+.bashrc           .face       .profile                   .zshrc
+.bashrc.original  .face.icon  Public
+.BurpSuite        .java       .sudo_as_admin_successful
+.cache            .local      Templates
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~]
+└─$ cd ~       
+
+┌──(dishanyaa_shrii_k_m㉿kali)-[~]
+└─$ ls   
+Desktop  Documents  Downloads  Music  new2  Pictures  Public  Templates  Videos
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~]
+└─$ mkdir Week_1      
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~]
+└─$ ls
+Desktop    Downloads  new2      Public     Videos
+Documents  Music      Pictures  Templates  Week_1
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~]
+└─$ cd Week_!
+cd: no such file or directory: Week_!
+
+
+┌──(dishanyaa_shrii_k_m㉿kali)-[~]
+└─$ cd Week_1
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1]
+└─$ mkdir Day_1 
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1]
+└─$ cd       
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~]
+└─$ cd Week_1
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1]
+└─$ ls
+Day_1
+
+
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1]
+└─$ cd Day_1    
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ nano commands.txt 
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ pwd
+/home/dishanyaa_shrii_k_m/Week_1/Day_1
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ ls
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ cd ..   
+
+
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1]
+└─$ ls
+Day_1
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1]
+└─$ cd Day_1
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ mkdir Recon_Lab
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ nano commands.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ cat commands.txt
+ls-listing the files
+nano-editing the file and also creating
+touch-creates file
+
+                    
+                                                                                                    
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ ls
+commands.txt  Recon_Lab
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ rm commands.txt   
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ ls
+Recon_Lab
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ cd Recon_Lab    
+                   
+                   
+                   ┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ cd Recon_Lab    
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ ls
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ cat commands.txt
+cat: commands.txt: No such file or directory
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ nano commands.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ nano commands.txt
+
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ touch notes.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ ls
+commands.txt  notes.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ 
+

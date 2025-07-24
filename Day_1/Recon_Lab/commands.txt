@@ -1,0 +1,3 @@
+ls-listing the files
+nano-editing the file and also creating
+touch-creates file
