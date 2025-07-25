@@ -1,0 +1,9 @@
+chmod-change mode
+
+r-read
+w-write
+x-execute
+
++ -> add
+- -> remove
+= -> exactly to overwrite
