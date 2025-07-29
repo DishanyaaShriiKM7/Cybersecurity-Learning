@@ -1,0 +1,204 @@
+Script started on 2025-07-29 00:27:33+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hn[4mn[24m[4mn[24m[38;2;153;153;153mano day5_notes.txt[39m[18D[4mn[39m[4me[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[38;2;153;153;153mofetch[39m[4mn[4me[39m[4mt[24m[39m [39m [39m [39m [39m [24m[36mn[24m[36me[24m[36mt[39m[38;2;153;153;153mstat[39m[36mt[36ms[39m[39m[4mn[39m[4me[39m[4mt[39m[4ms[24m[4ms[39m[4mt[24m[4mt[39m[4ma[24m[4ma[39m[4mt[24m[24m[36mn[24m[36me[24m[36mt[24m[36ms[24m[36mt[24m[36ma[24m[36mt[39m[36mt[36m [39m[36mt[39m[39m -[32m-[39m[32m-[32mt[39m[32mt[32mu[39m[32mu[32ml[39m[32ml[32mn[39m[?1l>[?2004l
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[A[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [A[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [A[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m s[4ms[24m[4ms[24m[38;2;153;153;153mcript day5_terminal_log.txt[39m[27D[4ms[39m[4ms[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[24m[36ms[24m[36ms[39m[36ms[36ms[36m [39m[36ms[36ms[39m[39m -[32m-[39m[32m-[32mt[39m[32mt[32mu[39m[32mu[32ml[39m[32ml[32mn[39m[?1l>[?2004l
+Netid  State   Recv-Q  Send-Q   Local Address:Port     Peer Address:Port  
+tcp    LISTEN  0       128            0.0.0.0:22            0.0.0.0:*     
+tcp    LISTEN  0       128               [::]:22               [::]:*     
+                                                                          ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[A[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [A[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [A[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [A[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [A[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [A[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [A[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [A[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [A[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [A[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m s[4ms[24m[4ms[24m[38;2;153;153;153ms -tuln[39m[4ms[39m[4ms[24m[24m[36ms[24m[36ms[39m[36ms[36ms[36m [39m[36ms[36ms[39m[39m [39mt[39m [39m [39m [39m i unp[?1l>[?2004l
+Error: an inet prefix is expected rather than "tunp".
+Cannot parse dst/src address.
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;2;153;153;153ms tunp[39m[4ms[39m[4ms[24m[24m[36ms[24m[36ms[39m[36ms[36ms[36m [39m[36ms[36ms[39m[39m [39m-[39m [39m [39m [32m-[39m[38;2;153;153;153mtuln[39m[32m-[32mt[39m[32mt[32mu[39m[32mu[32mn[39m[39m [32mn[32mp[39m[?1l>[?2004l
+Netid State Recv-Q  Send-Q         Local Address:Port     Peer Address:Port Process                                                                     
+udp   ESTAB 0       0        172.16.165.14%wlan0:68       172.16.164.1:67                                                                               
+tcp   ESTAB 0       0              172.16.165.14:60682   140.82.114.26:443   users:(("firefox-esr",pid=4363,fd=106))                                    
+tcp   ESTAB 0       0              172.16.165.14:33190   34.107.243.93:443   users:(("firefox-esr",pid=4363,fd=102))                                    
+tcp   ESTAB 0       0              172.16.165.14:37164    104.18.32.47:443   users:(("firefox-esr",pid=4363,fd=51))                                     
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hi[4mi[24m[4mi[24m[38;2;153;153;153mp a[39m[4mi[39m[4mp[24m[24m[36mi[24m[36mp[39m[36mi[39m[39m [39m [39m [39m[4mi[24m[4mi[24m[38;2;153;153;153mp [39m[38;2;153;153;153ma[39m[4mi[39m[4mf[24m[39m [39m [24m[1m[36mi[24m[1m[36mf[0m[39m[38;2;153;153;153mco[39m[38;2;153;153;153mn[39m[38;2;153;153;153mfig -a[39m[9D[1m[36mi[1m[36mf[1m[36mc[0m[39m[38;2;153;153;153mo[38;2;153;153;153mn[39m[38;2;153;153;153mf[39m[0m[39m[4mi[0m[39m[4mf[0m[39m[4mc[24m[4mc[39m[4mo[24m[38;2;153;153;153mn[38;2;153;153;153mf[39m[38;2;153;153;153mi[39m[4mo[39m[4mn[24m[38;2;153;153;153mf[38;2;153;153;153mi[39m[38;2;153;153;153mg[39m[4mn[39m[4mf[24m[38;2;153;153;153mi[38;2;153;153;153mg[39m[38;2;153;153;153m [39m[4mf[39m[4mi[24m[38;2;153;153;153mg[38;2;153;153;153m [39m[38;2;153;153;153m-[39m[4mi[39m[4mg[24m[38;2;153;153;153m [8D[24m[36mi[24m[36mf[24m[36mc[24m[36mo[24m[36mn[24m[36mf[24m[36mi[24m[36mg[39m[39m [39m [39m [?1l>[?2004l
+eth0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 34:73:5a:ab:36:0c  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 16  memory 0xa2400000-a2420000  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 252  bytes 19336 (18.8 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 252  bytes 19336 (18.8 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.16.165.14  netmask 255.255.254.0  broadcast 172.16.165.255
+        inet6 fe80::3e1:67a1:e75b:6a0f  prefixlen 64  scopeid 0x20<link>
+        ether 00:24:d6:a0:84:99  txqueuelen 1000  (Ethernet)
+        RX packets 50057  bytes 7397897 (7.0 MiB)
+        RX errors 0  dropped 1843  overruns 0  frame 0
+        TX packets 9206  bytes 3760425 (3.5 MiB)
+        TX errors 0  dropped 3 overruns 0  carrier 0  collisions 0
+
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hmkdir ~/Cybersecurity-Learning/Day_5_II/server_demo[51D[36mm[36mk[36md[36mi[36mr[39m[46C[?1l>[?2004l
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hmkdir ~/Cybersecurity-Learning/Day_5_II/server_demo[51D[36mm[36mk[36md[36mi[36mr[39m [1m~[1m/[1mC[1my[1mb[1me[1mr[1ms[1me[1mc[1mu[1mr[1mi[1mt[1my[1m-[1mL[1me[1ma[1mr[1mn[1mi[1mn[1mg[1m/[1mD[1ma[1my[1m_[1m5[1m_[1mI[1mI[1m/[1ms[1me[1mr[1mv[1me[1mr[1m_[1md[1me[1mm[1mo[0m[?1l>[?2004l
+mkdir: cannot create directory ‘/home/dishanyaa_shrii_k_m/Cybersecurity-Learning/Day_5_II/server_demo’: File exists
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hV[4mV[24m[24m mkdir ~/Cybersecurity-Learning/Day_5_II/server_demo
+[K[5C[A[36mm[36mk[36md[36mi[36mr[39m [1m~[1m/[1mC[1my[1mb[1me[1mr[1ms[1me[1mc[1mu[1mr[1mi[1mt[1my[1m-[1mL[1me[1ma[1mr[1mn[1mi[1mn[1mg[1m/[1mD[1ma[1my[1m_[1m5[1m_[1mI[1mI[1m/[1ms[1me[1mr[1mv[1me[1mr[1m_[1md[1me[1mm[1mo[0m[1B[50D[A[55C[P[44C [45D[0m/[0mC[0my[0mb[0me[0mr[0ms[0me[0mc[0mu[0mr[0mi[0mt[0my[0m-[0mL[0me[0ma[0mr[0mn[0mi[0mn[0mg[0m/[0mD[0ma[0my[0m_[0m5[0m_[0mI[0mI[0m/[0ms[0me[0mr[0mv[0me[0mr[0m_[0md[0me[0mm[0mo[44D[1C[P[43C [44D/Cybersecurity-Learning/Day_5_II/server_demo[43D[?1l>[?2004l[1B
+mkdir: cannot create directory ‘/Cybersecurity-Learning/Day_5_II/server_demo’: No such file or directory
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hm[4mm[24m[4mm[24m[38;2;153;153;153mkdir /Cybersecurity-Learning/Day_5_II/server_demo[39m
+[38;2;153;153;153m     [39m[K[A[4mm[39m[4mk[24m[4mm[4mk[39m[4md[24m[4md[39m[4mi[24m[4mi[39m[4mr[24m[24m[36mm[24m[36mk[24m[36md[24m[36mi[24m[36mr[39m[36mr[36m [39m[36mr[39m[39m [39ms[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[11C[1ms[0m[38;2;153;153;153meconddir[39m[8D[1ms[39m[1me[0m[1me[39m[1mr[0m[39m [39m [39m [39m [39m [39m [1mr[1mv[0m[1mv[1me[0m[1me[1mr[0m[1mr[1m_[0m[1m_[1md[0m[1md[1me[0m[1me[1mm[0m[1mm[1mo[0m[?1l>[?2004l[1Bmkdir: cannot create directory ‘server_demo’: File exists
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hcd ~/Cybersecurity-Learning/Day_5_II/server_demo[48D[36mc[36md[39m [1m~[1m/[1mC[1my[1mb[1me[1mr[1ms[1me[1mc[1mu[1mr[1mi[1mt[1my[1m-[1mL[1me[1ma[1mr[1mn[1mi[1mn[1mg[1m/[1mD[1ma[1my[1m_[1m5[1m_[1mI[1mI[1m/[1ms[1me[1mr[1mv[1me[1mr[1m_[1md[1me[1mm[1mo[0m[P[44C [45D[0m/[0mC[0my[0mb[0me[0mr[0ms[0me[0mc[0mu[0mr[0mi[0mt[0my[0m-[0mL[0me[0ma[0mr[0mn[0mi[0mn[0mg[0m/[0mD[0ma[0my[0m_[0m5[0m_[0mI[0mI[0m/[0ms[0me[0mr[0mv[0me[0mr[0m_[0md[0me[0mm[0mo[44D[?1l>[?2004l
+cd: no such file or directory: /Cybersecurity-Learning/Day_5_II/server_demo
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hc[4mc[24m[4mc[24m[38;2;153;153;153md /Cybersecurity-Learning/Day_5_II/server_demo[39m[46D[4mc[39m[4md[24m[24m[36mc[24m[36md[39m[36mc[36md[36m [39m[36mc[36md[39m[39m [39ms[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [43D[1ms[0m[38;2;153;153;153meconddir[39m[8D[1ms[39m[1me[0m[1me[39m[1mr[0m[39m [39m [39m [39m [39m [39m [1mr[1mv[0m[1mv[1me[0m[1me[1mr[0m[1mr[1m_[0m[1m_[1md[0m[1md[1me[0m[1me[1mm[0m[1mm[1mo[0m[?1l>[?2004l
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II/server_demo
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II/server_demo[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hecho "Hello from your local server!" > index.html[49D[36me[36mc[36mh[36mo[39m [33m"[33mH[33me[33ml[33ml[33mo[33m [33mf[33mr[33mo[33mm[33m [33my[33mo[33mu[33mr[33m [33ml[33mo[33mc[33ma[33ml[33m [33ms[33me[33mr[33mv[33me[33mr[1m[34m![0m[39m[33m"[39m [1m[34m>[0m[39m[11C[?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004h[?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004h[?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004h[?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004hq[33mq[39m[39m q[33mq[39m[39m [?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004h[?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004h[?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004h[?2004l
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II/server_demo
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II/server_demo[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hecho "Hello from your local server!" > index.html
+[K[A[4C[36me[36mc[36mh[36mo[39m [33m"[33mH[33me[33ml[33ml[33mo[33m [33mf[33mr[33mo[33mm[33m [33my[33mo[33mu[33mr[33m [33ml[33mo[33mc[33ma[33ml[33m [33ms[33me[33mr[33mv[33me[33mr[1m[34m![0m[39m[33m"[39m [1m[34m>[0m[39m[1B[K[?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004h[?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004h[?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004hA[33mA[39m[39mAAA[33mA[33mA[39m[39mA[39mAA[33mA[33mA[33mA[39m[33mA[33mA[39m[39m [33mA[39m[39m [39m [?2004l
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II/server_demo
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II/server_demo[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hn[4mn[24m[4mn[24m[38;2;153;153;153metstat -tuln[39m[12D[4mn[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[38;2;153;153;153mno day5_note[39m[38;2;153;153;153ms.txt[39m[17D[4mn[4ma[39m[4mn[24m[10C[38;2;153;153;153me[38;2;153;153;153ms[39m[12D[4mn[39m[4mo[24m[10C[38;2;153;153;153ms[38;2;153;153;153m.[39m[12D[24m[36mn[24m[36ma[24m[36mn[24m[36mo[39m[36mo[36m [39m[10C[38;2;153;153;153m.[11D[36mo[39m[39m [39mi[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13Dnder x.html[?1l>[?2004l
+[?2004h[?1049h[22;0;0t[1;20r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[18;33H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 8.4                     index.html                               [1;75H(B[m[19d(B[0;7m^G(B[m Help[19;16H(B[0;7m^O(B[m Write Out   (B[0;7m^F(B[m Where Is    (B[0;7m^K(B[m Cut[19;61H(B[0;7m^T(B[m Execute[20d(B[0;7m^X(B[m Exit[20;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify[2d[?12l[?25h[?25l[1;47H(B[0;7m*[75G(B[m[?12l[?25h[2dH[?25l[?12l[?25he[?25l[?12l[?25hl[?25l[?12l[?25hl[?25l[?12l[?25ho[?25l[?12l[?25h [?25l[?12l[?25hH[?25l[?12l[?25hT[?25l[?12l[?25hM[?25l[?12l[?25hL[?25l[?12l[?25h [?25l[?12l[?25hB[?25l[?12l[?25hr[?25l[?12l[?25hu[?25l[?12l[?25hh[?25l[?12l[?25hh[?25l[?12l[?25h.[?25l[?12l[?25h.[?25l[?12l[?25h.[?25l[18d[K[3d[?12l[?25h[?25l[18d(B[0;7mSave modified buffer?                                                       [19;1H Y(B[m Yes[K[20d(B[0;7m N(B[m No  [20;16H (B[0;7m^C(B[m Cancel[K[18;23H[?12l[?25h[?25l[19d(B[0;7m^G(B[m Help[19;20H(B[0;7mM-D(B[m DOS Format     (B[0;7mM-A(B[m Append[19;58H(B[0;7mM-B(B[m Backup File[20d(B[0;7m^C(B[m Cancel[17G   (B[0;7mM-M(B[m Mac Format     (B[0;7mM-P(B[m Prepend[20;58H(B[0;7m^T(B[m Browse[18d(B[0;7mWrite to File: index.html(B[m[?12l[?25h[?25l[31G[1K (B[0;7m[ Writing... ](B[m[K[1;47H(B[0;7m [75G(B[m[18;30H(B[0;7m[ Wrote 2 lines ](B[m[J[20d[?12l[?25h[20;1H[?1049l[23;0;0t[?1l>[?2004l                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II/server_demo
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II/server_demo[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hp[4mp[24m[4mp[24m[38;2;153;153;153ming 8.8.8.8[39m[11D[4mp[39m[4my[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[4mp[4my[4mt[24m[4mt[4mh[24m[4mh[4mo[24m[4mo[4mn[24m[24m[36mp[24m[36my[24m[36mt[24m[36mh[24m[36mo[24m[36mn[39m[36mn[36m [39m[36mn[39m[39m [36mn[36m3[39m[36m3[36m [39m[36m3[39m[39m -[32m-[39m[32m-[32mm[39m[32mm[32m [39m[32mm[39m[39m http.server 8080[?1l>[?2004l
+Serving HTTP on 0.0.0.0 port 8080 (http://0.0.0.0:8080/) ...
+127.0.0.1 - - [29/Jul/2025 00:58:19] "GET / HTTP/1.1" 200 -
+^C
+Keyboard interrupt received, exiting.
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II/server_demo
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II/server_demo[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;2;153;153;153ms -tunp[39m[4ms[39m[4ms[24m[24m[36ms[24m[36ms[39m[36ms[36ms[36m [39m[36ms[36ms[39m[39m [39m-[32m-[39m[32m-[32mt[39m[32mt[32mu[39m[32mu[32mn[39m[32mn[32mp[39m[32mp[32m [39m[32mp[39m[39m 8080[?1l>[?2004l
+ss: bison bellows (while parsing filter): "syntax error!" Sorry.
+Usage: ss [ OPTIONS ]
+       ss [ OPTIONS ] [ FILTER ]
+   -h, --help          this message
+   -V, --version       output version information
+   -n, --numeric       don't resolve service names
+   -r, --resolve       resolve host names
+   -a, --all           display all sockets
+   -l, --listening     display listening sockets
+   -B, --bound-inactive display TCP bound but inactive sockets
+   -o, --options       show timer information
+   -e, --extended      show detailed socket information
+   -m, --memory        show socket memory usage
+   -p, --processes     show process using socket
+   -T, --threads       show thread using socket
+   -i, --info          show internal TCP information
+       --tipcinfo      show internal tipc socket information
+   -s, --summary       show socket usage summary
+       --tos           show tos and priority information
+       --cgroup        show cgroup information
+   -b, --bpf           show bpf filter socket information
+       --bpf-maps      show all BPF socket-local storage maps
+       --bpf-map-id=MAP-ID    show a BPF socket-local storage map
+   -E, --events        continually display sockets as they are destroyed
+   -Z, --context       display task SELinux security contexts
+   -z, --contexts      display task and socket SELinux security contexts
+   -N, --net           switch to the specified network namespace name
+
+   -4, --ipv4          display only IP version 4 sockets
+   -6, --ipv6          display only IP version 6 sockets
+   -0, --packet        display PACKET sockets
+   -t, --tcp           display only TCP sockets
+   -M, --mptcp         display only MPTCP sockets
+   -S, --sctp          display only SCTP sockets
+   -u, --udp           display only UDP sockets
+   -d, --dccp          display only DCCP sockets
+   -w, --raw           display only RAW sockets
+   -x, --unix          display only Unix domain sockets
+       --tipc          display only TIPC sockets
+       --vsock         display only vsock sockets
+       --xdp           display only XDP sockets
+   -f, --family=FAMILY display sockets of type FAMILY
+       FAMILY := {inet|inet6|link|unix|netlink|vsock|tipc|xdp|help}
+
+   -K, --kill          forcibly close sockets, display what was closed
+   -H, --no-header     Suppress header line
+   -Q, --no-queues     Suppress sending and receiving queue columns
+   -O, --oneline       socket's data printed on a single line
+       --inet-sockopt  show various inet socket options
+
+   -A, --query=QUERY, --socket=QUERY
+       QUERY := {all|inet|tcp|mptcp|udp|raw|unix|unix_dgram|unix_stream|unix_seqpacket|packet|packet_raw|packet_dgram|netlink|dccp|sctp|vsock_stream|vsock_dgram|tipc|xdp}[,QUERY]
+
+   -D, --diag=FILE     Dump raw information about TCP sockets to FILE
+   -F, --filter=FILE   read filter information from FILE
+       FILTER := [ state STATE-FILTER ] [ EXPRESSION ]
+       STATE-FILTER := {all|connected|synchronized|bucket|big|TCP-STATES}
+         TCP-STATES := {established|syn-sent|syn-recv|fin-wait-{1,2}|time-wait|closed|close-wait|last-ack|listening|closing}
+          connected := {established|syn-sent|syn-recv|fin-wait-{1,2}|time-wait|close-wait|last-ack|closing}
+       synchronized := {established|syn-recv|fin-wait-{1,2}|time-wait|close-wait|last-ack|closing}
+             bucket := {syn-recv|time-wait}
+                big := {established|syn-sent|fin-wait-{1,2}|closed|close-wait|last-ack|listening|closing}
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II/server_demo
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II/server_demo[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;2;153;153;153ms -tunp 8080[39m[12D[4ms[39m[4ms[24m[24m[36ms[24m[36ms[39m[36ms[36ms[36m [39m[36ms[36ms[39m[39m [39m-[32m-[39m[32m-[32mt[39m[32mt[32mu[39m[32mu[32mn[39m[32mn[32mp[39m[32mp[32m [39m[32mp[39m[39m [39m|[39m [39m [39m [1m[34m|[0m[39m[1m[34m|[1m[34m [0m[39m[1m[34m|[0m[39m[0m[39m g[4mg[24m[4mg[4mr[24m[4mr[4mr[24m[4mr[24m[24m [4mr[4me[24m[4me[4mp[24m[24m[36mg[24m[36mr[24m[36me[24m[36mp[39m[36mp[36m [39m[36mp[39m[39m 8080[?1l>[?2004l
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II/server_demo
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II/server_demo[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hp[4mp[24m[4mp[24m[38;2;153;153;153mython3 -m http.server 8080[39m[26D[4mp[39m[4my[24m[4mp[4my[39m[4mt[24m[4mt[39m[4mh[24m[4mh[39m[4mo[24m[4mo[39m[4mn[24m[24m[36mp[24m[36my[24m[36mt[24m[36mh[24m[36mo[24m[36mn[39m[21C[22D[36mn[36m3[39m[38;2;153;153;153m [32m-[32mm[39m[17C[?1l>[?2004l
+Serving HTTP on 0.0.0.0 port 8080 (http://0.0.0.0:8080/) ...
+
+
+
+
+^X^C
+Keyboard interrupt received, exiting.
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II/server_demo
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II/server_demo[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hsudo ss -tunp | grep 8080
+[K[A[4C[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [36ms[36ms[39m [32m-[32mt[32mu[32mn[32mp[39m [1m[34m|[0m[39m [36mg[36mr[36me[36mp[39m[1B[K[?1l>[?2004l
+[sudo] password for dishanyaa_shrii_k_m: 
+                                                                            ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_5_II/server_demo
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_5_II/server_demo[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hcd ~/Cybersecurity-Learning/Day_5_II/server_demo[48D[36mc[36md[39m [1m~[1m/[1mC[1my
