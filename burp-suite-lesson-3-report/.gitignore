@@ -1,0 +1,5 @@
+# Sensitive or local evidence
+private_evidence/
+*.burp
+*.har
+.env
