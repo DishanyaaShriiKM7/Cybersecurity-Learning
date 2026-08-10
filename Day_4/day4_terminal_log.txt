@@ -1,0 +1,497 @@
+Script started on 2025-07-28 23:25:15+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;2;153;153;153mudo reboot[39m[10D[4ms[39m[4my[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D[38;2;153;153;153mstemctl st[39m[38;2;153;153;153matus snapd.apparmor[39m
+[K[A[6C[4ms[4my[39m[4ms[24m[8C[38;2;153;153;153mt[38;2;153;153;153ma[39m[1B[K[A[7C[4ms[39m[4mt[24m[8C[38;2;153;153;153ma[38;2;153;153;153mt[39m[10D[4mt[39m[4me[24m[8C[38;2;153;153;153mt[38;2;153;153;153mu[39m[10D[4me[39m[4mm[24m[8C[38;2;153;153;153mu[38;2;153;153;153ms[39m[10D[1B[A[4C[24m[36ms[24m[36my[24m[36ms[24m[36mt[24m[36me[24m[36mm[36mc[36mt[36ml[39m[1B[A[34C[38;2;153;153;153mr[39m[1B[K[A[35C[1B[K[A[35C[38;2;153;153;153mo[39m[39m [1B[K[A[34C[38;2;153;153;153mr[39m[1B[K[A[34C[38;2;153;153;153mm[39m[39m [39m [1B[K[A[33C[38;2;153;153;153mo[39m[38;2;153;153;153mr[39m[1B[K[A[33C[38;2;153;153;153mr[39m[39m [39m [39m [1B[K[A[32C[38;2;153;153;153mm[39m[38;2;153;153;153mo[39m[38;2;153;153;153mr[39m[1B[K[A[32C[38;2;153;153;153ma[39m[39m [39m [39m [39m [1B[K[A[31C[38;2;153;153;153mr[39m[38;2;153;153;153mm[39m[38;2;153;153;153mo[39m[38;2;153;153;153mr[39m[1B[K[A[31C[38;2;153;153;153mp[39m[39m [39m [39m [39m [39m [1B[K[A[30C[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mm[39m[38;2;153;153;153mo[39m[38;2;153;153;153mr[39m[1B[K[A[30C[38;2;153;153;153mp[39m[39m [39m [39m [39m [39m [39m [1B[K[A[29C[38;2;153;153;153mp[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mm[39m[38;2;153;153;153mo[39m[38;2;153;153;153mr[39m[1B[K[A[29C[38;2;153;153;153ma[39m[39m [39m [39m [39m [39m [39m [39m [1B[K[A[28C[38;2;153;153;153mp[39m[38;2;153;153;153mp[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mm[39m[38;2;153;153;153mo[39m[38;2;153;153;153mr[39m[1B[K[A[28C[38;2;153;153;153m.[39m[39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[27C[38;2;153;153;153ma[39m[38;2;153;153;153mp[39m[38;2;153;153;153mp[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mm[39m[38;2;153;153;153mo[39m[38;2;153;153;153mr[39m[1B[K[A[27C[38;2;153;153;153md[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[26C[38;2;153;153;153m.[39m[38;2;153;153;153ma[39m[38;2;153;153;153mp[39m[38;2;153;153;153mp[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mm[39m[38;2;153;153;153mo[39m[38;2;153;153;153mr[39m[1B[K[A[26C[38;2;153;153;153mp[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[25C[38;2;153;153;153md[39m[38;2;153;153;153m.[39m[38;2;153;153;153ma[39m[38;2;153;153;153mp[39m[38;2;153;153;153mp[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mm[39m[38;2;153;153;153mo[39m[38;2;153;153;153mr[39m[1B[K[A[25C[38;2;153;153;153ma[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[24C[38;2;153;153;153mp[39m[38;2;153;153;153md[39m[38;2;153;153;153m.[39m[38;2;153;153;153ma[39m[38;2;153;153;153mp[39m[38;2;153;153;153mp[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mm[39m[38;2;153;153;153mo[39m[38;2;153;153;153mr[39m[1B[K[A[24C[38;2;153;153;153mn[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[23C[38;2;153;153;153ma[39m[38;2;153;153;153mp[39m[38;2;153;153;153md[39m[38;2;153;153;153m.[39m[38;2;153;153;153ma[39m[38;2;153;153;153mp[39m[38;2;153;153;153mp[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mm[39m[38;2;153;153;153mo[39m[38;2;153;153;153mr[39m[1B[K[A[23C[38;2;153;153;153ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[22C[38;2;153;153;153mn[39m[38;2;153;153;153ma[39m[38;2;153;153;153mp[39m[38;2;153;153;153md[39m[38;2;153;153;153m.[39m[38;2;153;153;153ma[39m[38;2;153;153;153mp[39m[38;2;153;153;153mp[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mm[39m[38;2;153;153;153mo[39m[38;2;153;153;153mr[39m[1B[K[A[22C[38;2;153;153;153m [39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[21C[38;2;153;153;153ms[39m[38;2;153;153;153mn[39m[38;2;153;153;153ma[39m[38;2;153;153;153mp[39m[38;2;153;153;153md[39m[38;2;153;153;153m.[39m[38;2;153;153;153ma[39m[38;2;153;153;153mp[39m[38;2;153;153;153mp[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mm[39m[38;2;153;153;153mo[39m[38;2;153;153;153mr[39m[1B[K[A[21C[38;2;153;153;153m [1B[39m[K[A[22C[38;2;153;153;153ms[38;2;153;153;153ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[23C[38;2;153;153;153ms[38;2;153;153;153mh[39m[?1l>[?2004l[1B[?1h=○ ssh.service - OpenBSD Secure Shell server[m
+     Loaded: loaded (]8;;file://kali/usr/lib/systemd/system/ssh.service\/usr/lib/systemd/system/ssh.service]8;;\; [0;1;38:5:185mdisabled[0m; preset: [0;1;38:5:185mdis[m]8;;\[01;33m>[0m
+     Active: inactive (dead)[m
+       Docs: ]8;;man:sshd(8)\man:sshd(8)]8;;\[m]8;;\
+             ]8;;man:sshd_config(5)\man:sshd_config(5)]8;;\[m]8;;\
+[01;33mlines 1-5/5 (END)[0m[K[K[01;33mlines 1-5/5 (END)[0m[K[K[01;33mlines 1-5/5 (END)[0m[K[K[01;33mlines 1-5/5 (END)[0m[K[K-[Klog file: [Kuu[Kdd[K[K[K[01;33mlines 1-5/5 (END)[0m[K[K[01;33mlines 1-5/5 (END)[0m[K[K[K[01;33mlines 1-5/5 (END)[0m[K[K[K[01;33mlines 1-5/5 (END)[0m[K[K[K[01;33mlines 1-5/5 (END)[0m[K[K[K[01;33mlines 1-5/5 (END)[0m[K[K-[Klog file: [Kuu[Kdd[Koo[K  [K[K[K[K[K[01;33mlines 1-5/5 (END)[0m[K[K[01;33mlines 1-5/5 (END)[0m[K[K[01;33mlines 1-5/5 (END)[0m[K[K[01;33mlines 1-5/5 (END)[0m[K[K[?1l>                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;2;153;153;153mystemctl status ssh[39m[19D[4ms[39m[4mu[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[24m[36ms[24m[36mu[39m[38;2;153;153;153mdo reboot[39m[9D[36ms[36mu[36md[39m[39m[4ms[39m[4mu[39m[4md[24m[4md[39m[4mo[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39ms[39m [39m [39m [39m [39m [4ms[24m[38;2;153;153;153mystemc[39m[38;2;153;153;153mtl enable snapd.apparmo[39m[29D[4ms[39m[4my[24m[4C[38;2;153;153;153mc[38;2;153;153;153mt[39m[4my[39m[4ms[24m[4C[38;2;153;153;153mt[38;2;153;153;153ml[39m[4ms[39m[4mt[24m[4C[38;2;153;153;153ml[38;2;153;153;153m [39m[4mt[39m[4me[24m[4C[38;2;153;153;153m [38;2;153;153;153me[39m[4me[39m[4mm[24m[4C[38;2;153;153;153me[38;2;153;153;153mn[39m[4mm[39m[4mc[24m[4C[38;2;153;153;153mn[38;2;153;153;153ma[39m[4mc[39m[4mt[24m[4C[38;2;153;153;153ma[38;2;153;153;153mb[39m[4mt[39m[4ml[24m[4C[38;2;153;153;153mb[38;2;153;153;153ml[39m[9D[24m[36ms[24m[36my[24m[36ms[24m[36mt[24m[36me[24m[36mm[24m[36mc[24m[36mt[24m[36ml[39m[36ml[36m [39m[4C[38;2;153;153;153ml[36ml[39m[39m [39ms[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[38;2;153;153;153mtart snapd.apparmor[39m
+[K[A[20C[39mt[1B[K[A[21C[39ma[39mr[39mt[39m [39ms[39ms[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[27Ch[?1l>[?2004l[1B[sudo] password for dishanyaa_shrii_k_m: 
+                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;2;153;153;153mudo systemctl start ssh[39m[23D[4ms[39m[4mu[24m[24m[36ms[24m[36mu[39m[36ms[36mu[36md[39m[39m[4ms[39m[4mu[39m[4md[24m[4ms[4mu[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[24m[36ms[24m[36mu[39m[38;2;153;153;153mdo systemctl start ss[39m[38;2;153;153;153mh[39m[22D[36ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[39m[4ms[24m[4ms[24m[38;2;153;153;153mudo systemctl start s[39m[38;2;153;153;153ms[39m[38;2;153;153;153mh[39m[23D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24Ds[4ms[24m[4ms[24m[38;2;153;153;153mudo systemctl start s[39m[38;2;153;153;153ms[39m[38;2;153;153;153mh[39m[23D[4ms[39m[4my[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[38;2;153;153;153mstemctl status ssh[39m[18D[4ms[4my[39m[4ms[24m[4ms[39m[4mt[24m[4mt[39m[4me[24m[4me[39m[4mm[24m[4mm[39m[4m [24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[4mm[24m[24m [38;2;153;153;153mctl status ssh[39m[14D[14C[20D[24m[36ms[24m[36my[24m[36ms[24m[36mt[24m[36me[24m[36mm[36mc[36mt[36ml[39m[11C[?1l>[?2004l
+[?1h=[0;1;32m●[0m ssh.service - OpenBSD Secure Shell server[m
+     Loaded: loaded (]8;;file://kali/usr/lib/systemd/system/ssh.service\/usr/lib/systemd/system/ssh.service]8;;\; [0;1;38:5:185mdisabled[0m; preset: [0;1;38:5:185mdis[m]8;;\[01;33m>[0m
+     Active: [0;1;32mactive (running)[0m since Mon 2025-07-28 23:28:20 IST; 11s ago[m
+ Invocation: 3e1bb967a90747bab3766c64c32754f4[m
+       Docs: ]8;;man:sshd(8)\man:sshd(8)]8;;\[m]8;;\
+             ]8;;man:sshd_config(5)\man:sshd_config(5)]8;;\[m]8;;\
+    Process: 8288 ExecStartPre=/usr/sbin/sshd -t (code=exited, status=0/SUCCESS)[m
+   Main PID: 8290 (sshd)[m
+      Tasks: 1[0;38;5;245m (limit: 18579)[0m[m
+     Memory: 2.2M (peak: 2.7M)[m
+        CPU: 54ms[m
+     CGroup: /system.slice/ssh.service[m
+             └─[0;38;5;245m8290 "sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups"[0m[m
+[m
+Jul 28 23:28:20 kali systemd[1]: Starting ssh.service - OpenBSD Secure Shell se[m[01;33m>[0m
+Jul 28 23:28:20 kali sshd[8290]: Server listening on 0.0.0.0 port 22.[m
+Jul 28 23:28:20 kali sshd[8290]: Server listening on :: port 22.[m
+Jul 28 23:28:20 kali systemd[1]: Started ssh.service - OpenBSD Secure Shell ser[m[01;33m>[0m
+[01;33mlines 1-18/18 (END)[0m[K[K[?1l>                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hp[4mp[24m[4mp[24m[38;2;153;153;153mwd[39m[4mp[39m[4ms[24m[39m [24m[36mp[24m[36ms[39m[36mp[36ms[36m [39m[36mp[36ms[39m[39m [38;2;153;153;153maux | grep nm-applet[39m[20D[39m-[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[32m-[39m[32m-[32me[39m[32me[32mf[39m[?1l>[?2004l
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 23:14 ?        00:00:01 /sbin/init splash
+root           2       0  0 23:14 ?        00:00:00 [kthreadd]
+root           3       2  0 23:14 ?        00:00:00 [pool_workqueue_release]
+root           4       2  0 23:14 ?        00:00:00 [kworker/R-kvfree_rcu_reclai
+root           5       2  0 23:14 ?        00:00:00 [kworker/R-rcu_gp]
+root           6       2  0 23:14 ?        00:00:00 [kworker/R-sync_wq]
+root           7       2  0 23:14 ?        00:00:00 [kworker/R-slub_flushwq]
+root           8       2  0 23:14 ?        00:00:00 [kworker/R-netns]
+root          10       2  0 23:14 ?        00:00:00 [kworker/0:0H-events_highpri
+root          11       2  0 23:14 ?        00:00:00 [kworker/0:1-cgroup_destroy]
+root          13       2  0 23:14 ?        00:00:00 [kworker/R-mm_percpu_wq]
+root          14       2  0 23:14 ?        00:00:00 [rcu_tasks_kthread]
+root          15       2  0 23:14 ?        00:00:00 [rcu_tasks_rude_kthread]
+root          16       2  0 23:14 ?        00:00:00 [rcu_tasks_trace_kthread]
+root          17       2  0 23:14 ?        00:00:00 [ksoftirqd/0]
+root          18       2  0 23:14 ?        00:00:00 [rcu_preempt]
+root          19       2  0 23:14 ?        00:00:00 [rcu_exp_par_gp_kthread_work
+root          20       2  0 23:14 ?        00:00:00 [rcu_exp_gp_kthread_worker]
+root          21       2  0 23:14 ?        00:00:00 [migration/0]
+root          22       2  0 23:14 ?        00:00:00 [idle_inject/0]
+root          23       2  0 23:14 ?        00:00:00 [cpuhp/0]
+root          24       2  0 23:14 ?        00:00:00 [cpuhp/1]
+root          25       2  0 23:14 ?        00:00:00 [idle_inject/1]
+root          26       2  0 23:14 ?        00:00:00 [migration/1]
+root          27       2  0 23:14 ?        00:00:00 [ksoftirqd/1]
+root          29       2  0 23:14 ?        00:00:00 [kworker/1:0H-events_highpri
+root          30       2  0 23:14 ?        00:00:00 [cpuhp/2]
+root          31       2  0 23:14 ?        00:00:00 [idle_inject/2]
+root          32       2  0 23:14 ?        00:00:00 [migration/2]
+root          33       2  0 23:14 ?        00:00:00 [ksoftirqd/2]
+root          35       2  0 23:14 ?        00:00:00 [kworker/2:0H-events_highpri
+root          36       2  0 23:14 ?        00:00:00 [cpuhp/3]
+root          37       2  0 23:14 ?        00:00:00 [idle_inject/3]
+root          38       2  0 23:14 ?        00:00:00 [migration/3]
+root          39       2  0 23:14 ?        00:00:00 [ksoftirqd/3]
+root          41       2  0 23:14 ?        00:00:00 [kworker/3:0H-events_highpri
+root          42       2  0 23:14 ?        00:00:00 [cpuhp/4]
+root          43       2  0 23:14 ?        00:00:00 [idle_inject/4]
+root          44       2  0 23:14 ?        00:00:00 [migration/4]
+root          45       2  0 23:14 ?        00:00:00 [ksoftirqd/4]
+root          47       2  0 23:14 ?        00:00:00 [kworker/4:0H-events_highpri
+root          48       2  0 23:14 ?        00:00:00 [cpuhp/5]
+root          49       2  0 23:14 ?        00:00:00 [idle_inject/5]
+root          50       2  0 23:14 ?        00:00:00 [migration/5]
+root          51       2  0 23:14 ?        00:00:00 [ksoftirqd/5]
+root          53       2  0 23:14 ?        00:00:00 [kworker/5:0H-events_highpri
+root          54       2  0 23:14 ?        00:00:00 [cpuhp/6]
+root          55       2  0 23:14 ?        00:00:00 [idle_inject/6]
+root          56       2  0 23:14 ?        00:00:00 [migration/6]
+root          57       2  0 23:14 ?        00:00:00 [ksoftirqd/6]
+root          59       2  0 23:14 ?        00:00:00 [kworker/6:0H-events_highpri
+root          60       2  0 23:14 ?        00:00:00 [cpuhp/7]
+root          61       2  0 23:14 ?        00:00:00 [idle_inject/7]
+root          62       2  0 23:14 ?        00:00:00 [migration/7]
+root          63       2  0 23:14 ?        00:00:00 [ksoftirqd/7]
+root          64       2  0 23:14 ?        00:00:00 [kworker/7:0-i915-unordered]
+root          65       2  0 23:14 ?        00:00:00 [kworker/7:0H-events_highpri
+root          68       2  0 23:14 ?        00:00:00 [kworker/u32:2-events_unboun
+root          69       2  0 23:14 ?        00:00:00 [kworker/u32:3-i915]
+root          72       2  0 23:14 ?        00:00:00 [kworker/u32:6-flush-259:0]
+root          74       2  0 23:14 ?        00:00:00 [kdevtmpfs]
+root          75       2  0 23:14 ?        00:00:00 [kworker/R-inet_frag_wq]
+root          76       2  0 23:14 ?        00:00:00 [kauditd]
+root          77       2  0 23:14 ?        00:00:00 [khungtaskd]
+root          78       2  0 23:14 ?        00:00:00 [oom_reaper]
+root          79       2  0 23:14 ?        00:00:00 [kworker/R-writeback]
+root          80       2  0 23:14 ?        00:00:00 [kcompactd0]
+root          81       2  0 23:14 ?        00:00:00 [ksmd]
+root          82       2  0 23:14 ?        00:00:00 [khugepaged]
+root          83       2  0 23:14 ?        00:00:00 [kworker/R-kintegrityd]
+root          84       2  0 23:14 ?        00:00:00 [kworker/R-kblockd]
+root          85       2  0 23:14 ?        00:00:00 [kworker/R-blkcg_punt_bio]
+root          87       2  0 23:14 ?        00:00:01 [irq/9-acpi]
+root          88       2  0 23:14 ?        00:00:00 [kworker/6:1-mm_percpu_wq]
+root          89       2  0 23:14 ?        00:00:00 [kworker/3:1-cgroup_destroy]
+root          90       2  0 23:14 ?        00:00:00 [kworker/4:1-events]
+root          91       2  0 23:14 ?        00:00:00 [kworker/R-tpm_dev_wq]
+root          92       2  0 23:14 ?        00:00:00 [kworker/R-edac-poller]
+root          93       2  0 23:14 ?        00:00:00 [kworker/R-devfreq_wq]
+root          94       2  0 23:14 ?        00:00:00 [kworker/3:2-events]
+root          95       2  0 23:14 ?        00:00:00 [kworker/0:1H-events_highpri
+root          96       2  0 23:14 ?        00:00:00 [kswapd0]
+root          99       2  0 23:14 ?        00:00:00 [kworker/1:1-i915-unordered]
+root         100       2  0 23:14 ?        00:00:00 [kworker/5:1-cgroup_destroy]
+root         105       2  0 23:14 ?        00:00:00 [kworker/R-kthrotld]
+root         109       2  0 23:14 ?        00:00:00 [irq/124-pciehp]
+root         110       2  0 23:14 ?        00:00:00 [irq/125-pciehp]
+root         112       2  0 23:14 ?        00:00:00 [kworker/R-acpi_thermal_pm]
+root         114       2  0 23:14 ?        00:00:00 [hwrng]
+root         115       2  0 23:14 ?        00:00:00 [kworker/R-mld]
+root         116       2  0 23:14 ?        00:00:00 [kworker/R-ipv6_addrconf]
+root         117       2  0 23:14 ?        00:00:00 [kworker/7:1H-kblockd]
+root         122       2  0 23:14 ?        00:00:00 [kworker/R-kstrp]
+root         219       2  0 23:14 ?        00:00:00 [kworker/1:1H-events_highpri
+root         229       2  0 23:14 ?        00:00:00 [kworker/3:1H-events_highpri
+root         233       2  0 23:14 ?        00:00:00 [kworker/4:1H-kblockd]
+root         256       2  0 23:14 ?        00:00:00 [kworker/6:1H-events_highpri
+root         257       2  0 23:14 ?        00:00:00 [kworker/5:1H-events_highpri
+root         258       2  0 23:14 ?        00:00:00 [kworker/2:1H-kblockd]
+root         259       2  0 23:14 ?        00:00:02 [kworker/0:2-i915-unordered]
+root         260       2  0 23:14 ?        00:00:00 [kworker/R-cryptd]
+root         261       2  0 23:14 ?        00:00:00 [kworker/R-nvme-wq]
+root         262       2  0 23:14 ?        00:00:00 [kworker/R-nvme-reset-wq]
+root         263       2  0 23:14 ?        00:00:00 [kworker/R-nvme-delete-wq]
+root         264       2  0 23:14 ?        00:00:00 [kworker/R-nvme-auth-wq]
+root         324       2  0 23:14 ?        00:00:00 [kworker/u32:9-events_unboun
+root         340       2  0 23:14 ?        00:00:00 [kworker/5:2-i915-unordered]
+root         342       2  0 23:14 ?        00:00:00 [kworker/6:3-events]
+root         347       2  0 23:14 ?        00:00:00 [watchdogd]
+root         357       2  0 23:14 ?        00:00:00 [irq/39-ELAN900C:00]
+root         358       2  0 23:14 ?        00:00:05 [irq/51-DELL0A21:00]
+root         377       2  0 23:14 ?        00:00:00 [kworker/R-USBC000:00-con1]
+root         378       2  0 23:14 ?        00:00:00 [kworker/R-ttm]
+root         379       2  0 23:14 ?        00:00:00 [card0-crtc0]
+root         380       2  0 23:14 ?        00:00:00 [card0-crtc1]
+root         381       2  0 23:14 ?        00:00:00 [card0-crtc2]
+root         382       2  0 23:14 ?        00:00:00 [card0-crtc3]
+root         426       2  0 23:14 ?        00:00:00 [jbd2/nvme0n1p8-8]
+root         427       2  0 23:14 ?        00:00:00 [kworker/R-ext4-rsv-conversi
+root         478       2  0 23:14 ?        00:00:00 [kworker/R-USBC000:00-con2]
+root         495       1  0 23:14 ?        00:00:01 /usr/lib/systemd/systemd-jou
+systemd+     521       1  0 23:14 ?        00:00:00 /usr/lib/systemd/systemd-tim
+root         549       1  0 23:14 ?        00:00:00 /usr/lib/systemd/systemd-ude
+root         555       2  0 23:14 ?        00:00:00 [psimon]
+root         610       2  0 23:14 ?        00:00:00 [kworker/2:7-events]
+root         611       2  0 23:14 ?        00:00:00 [kworker/2:8-i915-unordered]
+root         619       2  0 23:14 ?        00:00:00 [irq/173-mei_me]
+root         627       2  0 23:14 ?        00:00:00 [kworker/R-cfg80211]
+root         657       2  0 23:14 ?        00:00:00 [irq/174-iwlwifi]
+root         680       2  0 23:14 ?        00:00:01 [kworker/u33:1+i915_flip]
+root         733       1  0 23:14 ?        00:00:00 /usr/sbin/haveged --Foregrou
+root         745       1  0 23:14 ?        00:00:00 /usr/libexec/accounts-daemon
+message+     746       1  0 23:14 ?        00:00:00 /usr/bin/dbus-daemon --syste
+polkitd      751       1  0 23:14 ?        00:00:00 /usr/lib/polkit-1/polkitd --
+root         752       1  0 23:14 ?        00:00:00 /usr/sbin/smartd -n
+root         754       1  0 23:14 ?        00:00:00 /usr/lib/systemd/systemd-log
+root         755       2  0 23:14 ?        00:00:00 [kworker/R-rpciod]
+root         757       2  0 23:14 ?        00:00:00 [kworker/R-xprtiod]
+root         774       1  0 23:14 ?        00:00:00 /usr/sbin/cron -f
+root         801       1  0 23:14 ?        00:00:00 /usr/sbin/NetworkManager --n
+root         824       1  0 23:14 ?        00:00:00 /usr/sbin/ModemManager
+root         825       1  0 23:14 ?        00:00:00 /usr/libexec/boltd
+root         954       1  0 23:14 ?        00:00:00 /usr/sbin/gdm3
+root         970       2  0 23:14 ?        00:00:00 [psimon]
+root         977       1  0 23:14 ?        00:00:00 /usr/sbin/wpa_supplicant -u 
+rtkit       1010       1  0 23:14 ?        00:00:00 /usr/libexec/rtkit-daemon
+colord      1097       1  0 23:14 ?        00:00:00 /usr/libexec/colord
+root        1206       1  0 23:14 ?        00:00:00 /usr/libexec/upowerd
+root        1355       1  0 23:14 ?        00:00:00 /usr/sbin/pcscd --foreground
+root        1512       1  0 23:14 ?        00:00:00 /usr/libexec/power-profiles-
+root        1551     954  0 23:14 ?        00:00:00 gdm-session-worker [pam/gdm-
+dishany+    1564       1  0 23:14 ?        00:00:00 /usr/lib/systemd/systemd --u
+dishany+    1566    1564  0 23:14 ?        00:00:00 (sd-pam)
+dishany+    1586    1564  0 23:14 ?        00:00:00 /usr/bin/dbus-daemon --sessi
+dishany+    1587    1564  0 23:14 ?        00:00:00 /usr/bin/pipewire
+dishany+    1589    1564  0 23:14 ?        00:00:00 /usr/bin/pipewire -c filter-
+dishany+    1590    1564  0 23:14 ?        00:00:00 /usr/bin/wireplumber
+dishany+    1591    1564  0 23:14 ?        00:00:00 /usr/bin/pipewire-pulse
+dishany+    1592    1564  0 23:14 ?        00:00:00 /usr/bin/gnome-keyring-daemo
+dishany+    1593    1564  0 23:14 ?        00:00:00 /usr/bin/mpris-proxy
+dishany+    1627    1551  0 23:14 tty2     00:00:00 /usr/libexec/gdm-x-session -
+dishany+    1629    1627  2 23:14 tty2     00:00:23 /usr/lib/xorg/Xorg vt2 -disp
+dishany+    1643    1627  0 23:14 tty2     00:00:00 /usr/libexec/gnome-session-b
+dishany+    1728    1564  0 23:14 ?        00:00:00 /usr/libexec/at-spi-bus-laun
+dishany+    1735    1728  0 23:14 ?        00:00:00 /usr/bin/dbus-daemon --confi
+dishany+    1745    1564  0 23:14 ?        00:00:00 /usr/libexec/gcr-ssh-agent -
+dishany+    1746    1564  0 23:14 ?        00:00:00 /usr/libexec/gnome-session-c
+dishany+    1747    1564  0 23:14 ?        00:00:00 /usr/bin/ssh-agent -D
+dishany+    1759    1564  0 23:14 ?        00:00:00 /usr/libexec/gvfsd
+dishany+    1765    1564  0 23:14 ?        00:00:00 /usr/libexec/gvfsd-fuse /run
+dishany+    1768    1564  0 23:14 ?        00:00:00 /usr/libexec/gnome-session-b
+dishany+    1782    1564  0 23:14 ?        00:00:00 /usr/libexec/xdg-permission-
+dishany+    1832    1564  0 23:14 ?        00:00:00 /usr/libexec/dconf-service
+dishany+    1833    1564  5 23:14 ?        00:00:57 /usr/bin/gnome-shell
+dishany+    1859    1833  0 23:14 ?        00:00:00 /usr/libexec/mutter-x11-fram
+dishany+    1862    1564  0 23:14 ?        00:00:00 /usr/libexec/at-spi2-registr
+dishany+    1875    1564  0 23:14 ?        00:00:00 /usr/libexec/xdg-desktop-por
+dishany+    1880    1564  0 23:14 ?        00:00:00 /usr/libexec/xdg-document-po
+root        1886    1880  0 23:14 ?        00:00:00 fusermount3 -o rw,nosuid,nod
+dishany+    1906    1564  0 23:14 ?        00:00:00 /usr/libexec/gnome-shell-cal
+dishany+    1914    1564  0 23:14 ?        00:00:00 /usr/libexec/evolution-sourc
+dishany+    1926    1564  0 23:14 ?        00:00:00 /usr/bin/gjs -m /usr/share/g
+dishany+    1941    1564  0 23:14 ?        00:00:02 /usr/bin/ibus-daemon --panel
+dishany+    1942    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-a11y-settin
+dishany+    1943    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-color
+dishany+    1950    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-datetime
+dishany+    1955    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-housekeepin
+dishany+    1957    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-keyboard
+dishany+    1959    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-media-keys
+dishany+    1960    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-power
+dishany+    1965    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-print-notif
+dishany+    1971    1768  0 23:14 ?        00:00:00 /usr/bin/python3 /usr/bin/bl
+dishany+    1973    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-rfkill
+dishany+    1977    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-screensaver
+dishany+    1982    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-sharing
+dishany+    1983    1768  0 23:14 ?        00:00:00 /usr/libexec/gsd-disk-utilit
+dishany+    1986    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-smartcard
+dishany+    1997    1768  0 23:14 ?        00:00:00 /usr/libexec/evolution-data-
+dishany+    2004    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-sound
+dishany+    2006    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-usb-protect
+dishany+    2008    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-wacom
+dishany+    2013    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-xsettings
+root        2028       1  0 23:14 ?        00:00:00 /usr/libexec/udisks2/udisksd
+dishany+    2052    1564  0 23:14 ?        00:00:00 /usr/libexec/gvfs-udisks2-vo
+dishany+    2072    1564  0 23:14 ?        00:00:00 /usr/libexec/gsd-printer
+dishany+    2091    1564  0 23:14 ?        00:00:00 /usr/bin/gjs -m /usr/share/g
+dishany+    2117    1941  0 23:14 ?        00:00:00 /usr/libexec/ibus-memconf
+dishany+    2119    1941  0 23:14 ?        00:00:05 /usr/libexec/ibus-extension-
+dishany+    2126    1564  0 23:14 ?        00:00:00 /usr/libexec/ibus-x11 --kill
+dishany+    2131    1564  0 23:14 ?        00:00:00 /usr/libexec/ibus-portal
+dishany+    2165    1564  0 23:14 ?        00:00:00 /usr/libexec/localsearch-3
+dishany+    2167    1564  0 23:14 ?        00:00:00 /usr/libexec/xdg-desktop-por
+dishany+    2182    1564  0 23:14 ?        00:00:00 /usr/libexec/gvfs-gphoto2-vo
+dishany+    2188    1564  0 23:14 ?        00:00:00 /usr/libexec/goa-daemon
+dishany+    2193    1564  0 23:14 ?        00:00:00 /usr/libexec/gvfs-goa-volume
+dishany+    2211    1564  0 23:14 ?        00:00:00 /usr/libexec/goa-identity-se
+dishany+    2214    1564  0 23:14 ?        00:00:00 /usr/libexec/evolution-calen
+dishany+    2224    1564  0 23:14 ?        00:00:00 /usr/libexec/gvfs-mtp-volume
+dishany+    2233    1564  0 23:14 ?        00:00:00 /usr/libexec/gvfs-afc-volume
+dishany+    2254    1564  0 23:14 ?        00:00:00 /usr/libexec/evolution-addre
+dishany+    2289    1564  0 23:14 ?        00:00:00 /usr/libexec/bluetooth/obexd
+dishany+    2302    1941  0 23:14 ?        00:00:00 /usr/libexec/ibus-engine-sim
+dishany+    2349    1564  0 23:14 ?        00:00:00 /usr/bin/Thunar --daemon
+dishany+    2350    1564  0 23:14 ?        00:00:00 /usr/libexec/xdg-desktop-por
+dishany+    2365    1759  0 23:14 ?        00:00:00 /usr/libexec/gvfsd-recent --
+dishany+    2366    1759  0 23:14 ?        00:00:00 /usr/libexec/gvfsd-trash --s
+dishany+    2423    1833  0 23:14 ?        00:00:01 gjs /usr/share/gnome-shell/e
+dishany+    2469    1564  0 23:14 ?        00:00:00 /usr/libexec/gvfsd-metadata
+dishany+    4171    1564  0 23:19 ?        00:00:04 /usr/libexec/gnome-terminal-
+dishany+    4183    4171  0 23:19 pts/0    00:00:00 zsh
+dishany+    4363    1833  9 23:19 ?        00:01:04 /usr/lib/firefox-esr/firefox
+dishany+    4450    4363  0 23:19 ?        00:00:00 /usr/lib/firefox-esr/firefox
+dishany+    4466    4363  0 23:19 ?        00:00:01 /usr/lib/firefox-esr/firefox
+dishany+    4515    4363  0 23:19 ?        00:00:00 /usr/lib/firefox-esr/firefox
+dishany+    4568    4363  0 23:19 ?        00:00:00 /usr/lib/firefox-esr/firefox
+dishany+    4571    4363 35 23:19 ?        00:04:10 /usr/lib/firefox-esr/firefox
+dishany+    4617    4363  0 23:19 ?        00:00:00 /usr/lib/firefox-esr/firefox
+dishany+    4641    4363  0 23:19 ?        00:00:00 /usr/lib/firefox-esr/firefox
+dishany+    4658    4363  0 23:19 ?        00:00:00 /usr/lib/firefox-esr/firefox
+dishany+    4730    4363  0 23:19 ?        00:00:00 /usr/lib/firefox-esr/firefox
+root        4902       2  0 23:19 ?        00:00:00 [kworker/1:0-i915-unordered]
+root        5317       2  0 23:20 ?        00:00:00 [kworker/7:2-mm_percpu_wq]
+dishany+    6635    1759  0 23:24 ?        00:00:00 /usr/libexec/gvfsd-network -
+dishany+    6644    1759  0 23:24 ?        00:00:00 /usr/libexec/gvfsd-dnssd --s
+root        6936       2  0 23:24 ?        00:00:00 [kworker/4:0]
+root        6949       2  0 23:24 ?        00:00:00 [kworker/u33:2-rb_allocator]
+dishany+    7078    4183  0 23:25 pts/0    00:00:00 script day4_terminal_log.txt
+dishany+    7079    7078  0 23:25 pts/1    00:00:00 zsh -i
+root        8290       1  0 23:28 ?        00:00:00 sshd: /usr/sbin/sshd -D [lis
+root        8449       2  0 23:28 ?        00:00:00 [kworker/7:1-events_freezabl
+root        8724       2  0 23:29 ?        00:00:00 [kworker/6:0]
+root        9251       2  0 23:30 ?        00:00:00 [kworker/u33:0]
+dishany+    9441    7079 50 23:31 pts/1    00:00:00 ps -ef
+                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;2;153;153;153mystemctl status ssh[39m[19D[4ms[39m[4me[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;2;153;153;153mrvice NetworkManage[39m[38;2;153;153;153mr start[39m[26D[4ms[4me[39m[4mr[24m[17C[38;2;153;153;153me[38;2;153;153;153mr[39m[19D[4mr[39m[4mv[24m[17C[38;2;153;153;153mr[38;2;153;153;153m [39m[19D[4mv[39m[4mi[24m[17C[38;2;153;153;153m [38;2;153;153;153ms[39m[19D[4mi[39m[4mc[24m[17C[38;2;153;153;153ms[38;2;153;153;153mt[39m[19D[4mc[39m[4me[24m[17C[38;2;153;153;153mt[38;2;153;153;153ma[39m[19D[24m[36ms[24m[36me[24m[36mr[24m[36mv[24m[36mi[24m[36mc[24m[36me[39m[36me[36m [39m[17C[38;2;153;153;153ma[18D[36me[39m[39m [39m-[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[32m-[39m[32m-[32ms[39m[32ms[32mt[39m[32mt[32ma[39m[32ma[32mt[39m[32mt[32mu[39m[32mu[32ms[39m[32ms[32m [39m[32ms[39m[39m -[32m-[39m[32m-[32m-[39m[32m-[32ma[39m[32ma[32ml[39m[32ml[32ml[39m[?1l>[?2004l
+-status: unrecognized service
+                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;2;153;153;153mervice -status --all[39m[20D[4ms[39m[4me[24m[4ms[4me[39m[4mr[24m[4mr[39m[4mv[24m[4mv[39m[4mi[24m[4mi[39m[4mc[24m[4mc[39m[4me[24m[24m[36ms[24m[36me[24m[36mr[24m[36mv[24m[36mi[24m[36mc[24m[36me[39m[36me[36m [39m[36me[39m[39m [39m-[32m-[39m[32m-[32m-[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[32m-[32ms[39m[32ms[32mt[39m[32mt[32ma[39m[32ma[32mt[39m[32mt[32mu[39m[32mu[32ms[39m[32ms[32m-[39m[32m-[32ma[39m[32ma[32ml[39m[32ml[32ml[39m[?1l>[?2004l
+ [ - ]  apache-htcacheclean
+ [ - ]  apache2
+ [ - ]  apparmor
+ [ - ]  atftpd
+ [ - ]  bluetooth
+ [ - ]  console-setup.sh
+ [ + ]  cron
+ [ - ]  cryptdisks
+ [ - ]  cryptdisks-early
+ [ + ]  dbus
+ [ - ]  dns2tcp
+ [ + ]  gdm3
+ [ - ]  inetsim
+ [ - ]  iodined
+ [ - ]  ipsec
+ [ - ]  keyboard-setup.sh
+ [ - ]  lightdm
+ [ - ]  lm-sensors
+ [ - ]  mariadb
+ [ - ]  miredo
+ [ - ]  mosquitto
+ [ + ]  networking
+ [ - ]  nfs-common
+ [ - ]  nginx
+ [ - ]  nmbd
+ [ - ]  openvpn
+ [ + ]  pcscd
+ [ - ]  plymouth
+ [ + ]  plymouth-log
+ [ - ]  postgresql
+ [ + ]  procps
+ [ - ]  ptunnel
+ [ - ]  redis-server
+ [ - ]  redsocks
+ [ - ]  rpcbind
+ [ - ]  rsync
+ [ - ]  samba-ad-dc
+ [ - ]  saned
+ [ - ]  screen-cleanup
+ [ + ]  smartmontools
+ [ - ]  smbd
+ [ - ]  snmpd
+ [ - ]  speech-dispatcher
+ [ + ]  ssh
+ [ - ]  sslh
+ [ - ]  stunnel4
+ [ - ]  sudo
+ [ - ]  sysstat
+ [ - ]  winbind
+ [ - ]  x11-common
+                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hp[4mp[24m[4mp[24m[38;2;153;153;153ms -ef[39m[4mp[39m[4ms[24m[24m[36mp[24m[36ms[39m[36mp[36ms[36m [39m[36mp[36ms[39m[39m [39m-[32m-[39m[32m-[32mu[39m[39m [?1l>[?2004l
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+dishany+    1627  0.0  0.0 169396  6376 tty2     Ssl+ 23:14   0:00 /usr/libexec/
+dishany+    1629  2.5  0.6 722300 107124 tty2    Sl+  23:14   0:27 /usr/lib/xorg
+dishany+    1643  0.0  0.0 268396 14808 tty2     Sl+  23:14   0:00 /usr/libexec/
+dishany+    4183  0.0  0.0  10452  6900 pts/0    Ss   23:19   0:00 zsh
+dishany+    7078  0.0  0.0   5612  2132 pts/0    S+   23:25   0:00 script day4_t
+dishany+    7079  0.2  0.0  10540  6876 pts/1    Ss   23:25   0:01 zsh -i
+dishany+   10458  0.0  0.0   9664  4400 pts/1    R+   23:32   0:00 ps -u
+                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;2;153;153;153mervice --status-all[39m[19D[4ms[39m[4mu[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[24m[36ms[24m[36mu[39m[38;2;153;153;153mdo systemctl start [39m[38;2;153;153;153mssh[39m[22D[36ms[36mu[36md[39m[17C[38;2;153;153;153m [38;2;153;153;153ms[39m[19D[39m[4ms[39m[4mu[39m[4md[24m[4md[39m[4mo[24m[17C[38;2;153;153;153ms[38;2;153;153;153ms[39m[19D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[17C[38;2;153;153;153ms[18D[4m[32mo[24m[39m[24m[39m [39ms[4ms[24m[4ms[39m[4me[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[38;2;153;153;153mrvice network-mana[39m[38;2;153;153;153mg[39m[38;2;153;153;153mer start[39m[27D[4me[39m[4mr[24m[16C[38;2;153;153;153ma[38;2;153;153;153mg[39m[38;2;153;153;153me[39m[19D[4mr[39m[4mv[24m[16C[38;2;153;153;153mg[38;2;153;153;153me[39m[38;2;153;153;153mr[39m[19D[4mv[39m[4mi[24m[16C[38;2;153;153;153me[38;2;153;153;153mr[39m[38;2;153;153;153m [39m[19D[4mi[39m[4mc[24m[16C[38;2;153;153;153mr[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[19D[4mc[39m[4me[24m[16C[38;2;153;153;153m [38;2;153;153;153ms[39m[38;2;153;153;153mt[39m[19D[24m[36ms[24m[36me[24m[36mr[24m[36mv[24m[36mi[24m[36mc[24m[36me[39m[36me[36m [39m[16C[38;2;153;153;153ms[38;2;153;153;153mt[18D[36me[39m[39m [39ms[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20Dsh status[?1l>[?2004l
+[?1h=[0;1;32m●[0m ssh.service - OpenBSD Secure Shell server[m
+     Loaded: loaded (]8;;file://kali/usr/lib/systemd/system/ssh.service\/usr/lib/systemd/system/ssh.service]8;;\; [0;1;38:5:185mdisabled[0m; preset: [0;1;38:5:185mdis[m]8;;\[7m>[27m
+     Active: [0;1;32mactive (running)[0m since Mon 2025-07-28 23:28:20 IST; 11min ago[m
+ Invocation: 3e1bb967a90747bab3766c64c32754f4[m
+       Docs: ]8;;man:sshd(8)\man:sshd(8)]8;;\[m]8;;\
+             ]8;;man:sshd_config(5)\man:sshd_config(5)]8;;\[m]8;;\
+    Process: 8288 ExecStartPre=/usr/sbin/sshd -t (code=exited, status=0/SUCCESS)[m
+   Main PID: 8290 (sshd)[m
+      Tasks: 1[0;38;5;245m (limit: 18579)[0m[m
+     Memory: 2.2M (peak: 2.7M)[m
+        CPU: 54ms[m
+     CGroup: /system.slice/ssh.service[m
+             └─[0;38;5;245m8290 "sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups"[0m[m
+[m
+Jul 28 23:28:20 kali systemd[1]: Starting ssh.service - OpenBSD Secure Shell se[m[7m>[27m
+Jul 28 23:28:20 kali sshd[8290]: Server listening on 0.0.0.0 port 22.[m
+Jul 28 23:28:20 kali sshd[8290]: Server listening on :: port 22.[m
+Jul 28 23:28:20 kali systemd[1]: Started ssh.service - OpenBSD Secure Shell ser[m[7m>[27m
+[7mlines 1-18/18 (END)[27m[K[K[?1l>                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
+                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;2;153;153;153mudo service ssh status[39m[22D[4ms[39m[4mu[24m[24m[36ms[24m[36mu[39m[36ms[36mu[36md[39m[39m[4ms[39m[4mu[39m[4md[24m[4md[39m[4mo[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39ms[4ms[24m[4ms[39m[4me[24m[4me[39m[4mr[24m[4mr[39m[4mv[24m[4mv[39m[4mi[24m[4mi[39m[4md[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[4mi[24m[24m [38;2;153;153;153mce ssh status[39m[13D[4mi[39m[4mc[24m[4mc[39m[4me[24m[24m[36ms[24m[36me[24m[36mr[24m[36mv[24m[36mi[24m[36mc[24m[36me[39m[36me[36m [39m[36me[39m[39m [39ms[39ms[39mh[39m [39ms[39mt[39ma[39mr[39m [39m t[?1l>[?2004l
+                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;2;153;153;153mudo service ssh start[39m[21D[4ms[39m[4mu[24m[24m[36ms[24m[36mu[39m[36ms[36mu[36md[39m[39m[4ms[39m[4mu[39m[4md[24m[4md[39m[4mo[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39ms[4ms[24m[4ms[39m[4me[24m[4me[39m[4mr[24m[4mr[39m[4mv[24m[4mv[39m[4mi[24m[4mi[39m[4mc[24m[4mc[39m[4me[24m[24m[36ms[24m[36me[24m[36mr[24m[36mv[24m[36mi[24m[36mc[24m[36me[39m[36me[36m [39m[36me[39m[39m [39ms[39ms[39mh [39m [39m [39m [39m [39m [39m [38;2;153;153;153mh star[39m[38;2;153;153;153mt[39m [39m [39m [39m [39m [39m [39m [39m [8D[38;2;153;153;153msh sta[39m[38;2;153;153;153mr[39m[38;2;153;153;153mt[39m[8D [39m [39m [39m [39m [39m [39m [39m [39m [9D[38;2;153;153;153mssh st[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mt[39m[9D[39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[38;2;153;153;153m ssh s[39m[38;2;153;153;153mt[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mt[39m[10D[36mc[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[39m[4ms[39m[4me[39m[4mr[39m[4mv[39m[4mi[39m[4mc[24m[38;2;153;153;153me ssh [39m[38;2;153;153;153ms[39m[38;2;153;153;153mt[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mt[39m[11D[4mi[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[38;2;153;153;153mce ssh[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153mt[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mt[39m[12D[4mv[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[38;2;153;153;153mice ss[39m[38;2;153;153;153mh[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153mt[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mt[39m[13D[4mr[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[38;2;153;153;153mvice s[39m[38;2;153;153;153ms[39m[38;2;153;153;153mh[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153mt[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mt[39m[14D[4me[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153mrvice [39m[38;2;153;153;153ms[39m[38;2;153;153;153ms[39m[38;2;153;153;153mh[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153mt[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mt[39m[15D[4ms[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[38;2;153;153;153mervice[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153ms[39m[38;2;153;153;153mh[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153mt[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mt[39m[16D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[38;2;153;153;153mservic[39m[38;2;153;153;153me[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153ms[39m[38;2;153;153;153mh[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153mt[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mt[39m[17D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;2;153;153;153m servi[39m[38;2;153;153;153mc[39m[38;2;153;153;153me[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153ms[39m[38;2;153;153;153mh[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153mt[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mt[39m[18D[4m[32md[24m[39m[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[39m[4ms[39m[4mu[39m[4md[24m[38;2;153;153;153mo serv[39m[38;2;153;153;153mi[39m[38;2;153;153;153mc[39m[38;2;153;153;153me[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153ms[39m[38;2;153;153;153mh[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153mt[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mt[39m[19D[4ms[4mu[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[24m[36ms[24m[36mu[39m[38;2;153;153;153mdo ser[39m[38;2;153;153;153mv[39m[38;2;153;153;153mi[39m[38;2;153;153;153mc[39m[38;2;153;153;153me[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153ms[39m[38;2;153;153;153mh[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153mt[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mt[39m[20D[36ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[39m[4ms[24m[4ms[24m[38;2;153;153;153mudo se[39m[38;2;153;153;153mr[39m[38;2;153;153;153mv[39m[38;2;153;153;153mi[39m[38;2;153;153;153mc[39m[38;2;153;153;153me[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153ms[39m[38;2;153;153;153mh[39m[38;2;153;153;153m [39m[38;2;153;153;153ms[39m[38;2;153;153;153mt[39m[38;2;153;153;153ma[39m[38;2;153;153;153mr[39m[38;2;153;153;153mt[39m[21D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22Dsudo service ssh stop
+[K[A[4C[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m [36ms[36me[36mr[36mv[36mi[36mc[36me[39m[1B[K[?1l>[?2004l
+                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;2;153;153;153mudo service ssh stop[39m
+[K[A[5C[4ms[39m[4mu[24m[1B[K[A[6C[24m[36ms[24m[36mu[39m[36ms[36mu[36md[39m[39m[4ms[39m[4mu[39m[4md[24m[4md[39m[4mo[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39ms[4ms[24m[4ms[39m[4me[24m[4me[39m[4mr[24m[4mr[39m[4mv[24m[4mv[39m[4mi[24m[4mi[39m[4mc[24m[4mc[39m[4me[24m[24m[36ms[24m[36me[24m[36mr[24m[36mv[24m[36mi[24m[36mc[24m[36me[39m[36me[36m [39m[36me[39m[39m [39ms[39ms[39mh[39m [39ms[39mt[39ma[39m [1B[K[A[24C[38;2;153;153;153mrt[39m[39mt[39m [38;2;153;153;153mus[39m[2C[?1l>[?2004l[1B[?1h=○ ssh.service - OpenBSD Secure Shell server[m
+     Loaded: loaded (]8;;file://kali/usr/lib/systemd/system/ssh.service\/usr/lib/systemd/system/ssh.service]8;;\; [0;1;38:5:185mdisabled[0m; preset: [0;1;38:5:185mdis[m]8;;\[7m>[27m
+     Active: inactive (dead) since Mon 2025-07-28 23:40:16 IST; 17s ago[m
+   Duration: 11min 55.392s[m
+ Invocation: 3e1bb967a90747bab3766c64c32754f4[m
+       Docs: ]8;;man:sshd(8)\man:sshd(8)]8;;\[m]8;;\
+             ]8;;man:sshd_config(5)\man:sshd_config(5)]8;;\[m]8;;\
+    Process: 8288 ExecStartPre=/usr/sbin/sshd -t (code=exited, status=0/SUCCESS)[m
+    Process: 8290 ExecStart=/usr/sbin/sshd -D $SSHD_OPTS (code=exited, status=0[m[7m>[27m
+   Main PID: 8290 (code=exited, status=0/SUCCESS)[m
+   Mem peak: 2.7M[m
+        CPU: 56ms[m
+[m
+Jul 28 23:28:20 kali systemd[1]: Starting ssh.service - OpenBSD Secure Shell se[m[7m>[27m
+Jul 28 23:28:20 kali sshd[8290]: Server listening on 0.0.0.0 port 22.[m
+Jul 28 23:28:20 kali sshd[8290]: Server listening on :: port 22.[m
+Jul 28 23:28:20 kali systemd[1]: Started ssh.service - OpenBSD Secure Shell ser[m[7m>[27m
+Jul 28 23:40:16 kali sshd[8290]: Received signal 15; terminating.[m
+Jul 28 23:40:16 kali systemd[1]: Stopping ssh.service - OpenBSD Secure Shell se[m[7m>[27m
+Jul 28 23:40:16 kali systemd[1]: ssh.service: Deactivated successfully.[m
+Jul 28 23:40:16 kali systemd[1]: Stopped ssh.service - OpenBSD Secure Shell ser[m[7m>[27m
+[7mlines 1-21/21 (END)[27m[K[K-[Klog file: [Kuu[Kss[K[K[Kqq[K[Kqq[K[K[7mlines 1-21/21 (END)[27m[K[K[7mlines 1-21/21 (END)[27m[K[K[?1l>                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;2;153;153;153mudo service ssh status[39m[22D[4ms[39m[4mu[24m[24m[36ms[24m[36mu[39m[36ms[36mu[36md[39m[39m[4ms[39m[4mu[39m[4md[24m[4md[39m[4mo[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39ms[4ms[24m[4ms[39m[4me[24m[4me[39m[4mr[24m[4mr[39m[4mv[24m[4mv[39m[4mi[24m[4mi[39m[4mc[24m[4mc[39m[4me[24m[24m[36ms[24m[36me[24m[36mr[24m[36mv[24m[36mi[24m[36mc[24m[36me[39m[36me[36m [39m[36me[39m[39m [39ms[39ms[39mh[39m [39mr[39m [39m [39m [39m [39m estart[?1l>[?2004l
+                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;2;153;153;153mudo service ssh restart[39m[23D[4ms[39m[4mu[24m[24m[36ms[24m[36mu[39m[36ms[36mu[36md[39m[39m[4ms[39m[4mu[39m[4md[24m[4md[39m[4mo[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[4m[32mo[4m[32m [24m[39m[4m[32mo[24m[39m[24m[39m [39ms[4ms[24m[4ms[39m[4me[24m[4me[39m[4mr[24m[4mr[39m[4mv[24m[4mv[39m[4mi[24m[4mi[39m[4mc[24m[4mc[39m[4me[24m[24m[36ms[24m[36me[24m[36mr[24m[36mv[24m[36mi[24m[36mc[24m[36me[39m[36me[36m [39m[36me[39m[39m [39ms[39ms[39mh[39m [39ms[39m [39m [39m [39m [39m [39m [38;2;153;153;153mtatus[39m[39mt[39ma[39mt[39my[39m  [38;2;153;153;153mus[39m[39mu[39ms[?1l>[?2004l
+[?1h=[0;1;32m●[0m ssh.service - OpenBSD Secure Shell server[m
+     Loaded: loaded (]8;;file://kali/usr/lib/systemd/system/ssh.service\/usr/lib/systemd/system/ssh.service]8;;\; [0;1;38:5:185mdisabled[0m; preset: [0;1;38:5:185mdis[m]8;;\[7m>[27m
+     Active: [0;1;32mactive (running)[0m since Mon 2025-07-28 23:40:54 IST; 11s ago[m
+ Invocation: 1c18d5a274394dca87e65a022a6633a9[m
+       Docs: ]8;;man:sshd(8)\man:sshd(8)]8;;\[m]8;;\
+             ]8;;man:sshd_config(5)\man:sshd_config(5)]8;;\[m]8;;\
+    Process: 13708 ExecStartPre=/usr/sbin/sshd -t (code=exited, status=0/SUCCES[m[7m>[27m
+   Main PID: 13710 (sshd)[m
+      Tasks: 1[0;38;5;245m (limit: 18579)[0m[m
+     Memory: 1.5M (peak: 2M)[m
+        CPU: 52ms[m
+     CGroup: /system.slice/ssh.service[m
+             └─[0;38;5;245m13710 "sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups"[0m[m
+[m
+Jul 28 23:40:54 kali systemd[1]: Starting ssh.service - OpenBSD Secure Shell se[m[7m>[27m
+Jul 28 23:40:54 kali sshd[13710]: Server listening on 0.0.0.0 port 22.[m
+Jul 28 23:40:54 kali sshd[13710]: Server listening on :: port 22.[m
+Jul 28 23:40:54 kali systemd[1]: Started ssh.service - OpenBSD Secure Shell ser[m[7m>[27m
+[7mlines 1-18/18 (END)[27m[K[K-[Klog file: [Kee[Krr[Kvv[Kii[Kcc[Kee[K  [K[K[K[K[K[K[K[K[7mlines 1-18/18 (END)[27m[K[K[7mlines 1-18/18 (END)[27m[K[K[?1l>                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hs[4ms[24m[4ms[24m[38;2;153;153;153mudo service ssh status[39m[22D[4ms[39m[4me[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[38;2;153;153;153mrvice --status-all[39m[18D[4ms[4me[39m[4mr[24m[4mr[39m[4mv[24m[4mv[39m[4mi[24m[4mi[39m[4mc[24m[4mc[39m[4me[24m[24m[36ms[24m[36me[24m[36mr[24m[36mv[24m[36mi[24m[36mc[24m[36me[39m[36me[36m [39m[36me[39m[39m [39m=[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D [38;2;153;153;153m--status-all[39m[12D[39m-[32m-[39m[32m-[32m-[39m[32m-[32ms[39m[32ms[32mt[39m[32mt[32ma[39m[32ma[32mt[39m[32mt[32mu[39m[32mu[32ms[39m[32ms[32m-[39m[32m-[32ma[39m[32ma[32ml[39m[32ml[32ml[39m[?1l>[?2004l
+ [ - ]  apache-htcacheclean
+ [ - ]  apache2
+ [ - ]  apparmor
+ [ - ]  atftpd
+ [ - ]  bluetooth
+ [ - ]  console-setup.sh
+ [ + ]  cron
+ [ - ]  cryptdisks
+ [ - ]  cryptdisks-early
+ [ + ]  dbus
+ [ - ]  dns2tcp
+ [ + ]  gdm3
+ [ - ]  inetsim
+ [ - ]  iodined
+ [ - ]  ipsec
+ [ - ]  keyboard-setup.sh
+ [ - ]  lightdm
+ [ - ]  lm-sensors
+ [ - ]  mariadb
+ [ - ]  miredo
+ [ - ]  mosquitto
+ [ + ]  networking
+ [ - ]  nfs-common
+ [ - ]  nginx
+ [ - ]  nmbd
+ [ - ]  openvpn
+ [ + ]  pcscd
+ [ - ]  plymouth
+ [ + ]  plymouth-log
+ [ - ]  postgresql
+ [ + ]  procps
+ [ - ]  ptunnel
+ [ - ]  redis-server
+ [ - ]  redsocks
+ [ - ]  rpcbind
+ [ - ]  rsync
+ [ - ]  samba-ad-dc
+ [ - ]  saned
+ [ - ]  screen-cleanup
+ [ + ]  smartmontools
+ [ - ]  smbd
+ [ - ]  snmpd
+ [ - ]  speech-dispatcher
+ [ + ]  ssh
+ [ - ]  sslh
+ [ - ]  stunnel4
+ [ - ]  sudo
+ [ - ]  sysstat
+ [ - ]  winbind
+ [ - ]  x11-common
+                                                                                ]0;dishanyaa_shrii_k_m@kali: ~/Cybersecurity-Learning/Day_4
+[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[A[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [A[0m[27m[24m[J[32m┌──([1m[32m[34mdishanyaa_shrii_k_m㉿kali[0m[34m[32m)-[[1m[32m[39m~/Cybersecurity-Learning/Day_4[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m e[4me[24m[4me[24m[38;2;153;153;153mxit[39m[4me[39m[4mx[24m[24m[36me[24m[36mx[39m[36me[36mx[36mi[39m[39m[4me[39m[4mx[39m[4mi[24m[4mi[39m[4mt[24m[24m[36me[24m[36mx[24m[36mi[24m[36mt[39m[?1l>[?2004l
+
+Script done on 2025-07-28 23:44:49+05:30 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,376 @@
+                                                                                                    
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ ls
+commands.txt  Recon_Lab
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ rm commands.txt   
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ ls
+Recon_Lab
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ cd Recon_Lab  
+
+
+                   ┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1]
+└─$ cd Recon_Lab    
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ ls
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ cat commands.txt
+cat: commands.txt: No such file or directory
+
+
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ nano commands.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ nano commands.txt
+
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ touch notes.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ ls
+commands.txt  notes.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ 
+
+
+──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ cat commands.txt
+ls-listing the files
+nano-editing the file and also creating
+touch-creates file
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ ls -l
+
+total 12
+-rw-rw-r-- 1 dishanyaa_shrii_k_m dishanyaa_shrii_k_m   80 Jul 25 00:13 commands.txt
+-rw-rw-r-- 1 dishanyaa_shrii_k_m dishanyaa_shrii_k_m 5667 Jul 25 00:19 notes.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ cal             
+Command 'cal' not found, but can be installed with:
+sudo apt install ncal
+Do you want to install it? (N/y)y
+sudo apt install ncal
+[sudo] password for dishanyaa_shrii_k_m: 
+Installing:                     
+  ncal
+
+
+Summary:
+  Upgrading: 0, Installing: 1, Removing: 0, Not Upgrading: 467
+  Download size: 19.7 kB
+  Space needed: 59.4 kB / 76.1 GB available
+
+Get:1 http://kali.download/kali kali-rolling/main amd64 ncal amd64 12.1.8 [19.7 kB]
+Fetched 19.7 kB in 1s (16.3 kB/s)
+Selecting previously unselected package ncal.
+(Reading database ... 449799 files and directories currently installed.)
+Preparing to unpack .../archives/ncal_12.1.8_amd64.deb ...
+Unpacking ncal (12.1.8) ...
+Setting up ncal (12.1.8) ...
+Processing triggers for kali-menu (2025.2.7) ...
+Processing triggers for man-db
+
+
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ cal
+     July 2025        
+Su Mo Tu We Th Fr Sa  
+       1  2  3  4  5  
+ 6  7  8  9 10 11 12  
+13 14 15 16 17 18 19  
+20 21 22 23 24 25 26  
+27 28 29 30 31        
+                      
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ date 
+Friday 25 July 2025 11:12:32 PM IST
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ ls -l
+
+
+
+total 12
+-rw-rw-r-- 1 dishanyaa_shrii_k_m dishanyaa_shrii_k_m   80 Jul 25 00:13 commands.txt
+-rw-rw-r-- 1 dishanyaa_shrii_k_m dishanyaa_shrii_k_m 5667 Jul 25 00:19 notes.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_1/Recon_Lab]
+└─$ cd /home/dishanyaa_shrii_k_m/Week_1/Day_2                                  
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ nano permission.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ ls -l
+
+total 4
+-rw-rw-r-- 1 dishanyaa_shrii_k_m dishanyaa_shrii_k_m 92 Jul 25 23:23 permission.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ 
+
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ chmod u+x permission.txt                 
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ ls -l
+
+total 4
+-rwxrw-r-- 1 dishanyaa_shrii_k_m dishanyaa_shrii_k_m 92 Jul 25 23:23 permission.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ chmod g-w permission.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ ls -l  
+
+total 4
+-rwxr--r-- 1 dishanyaa_shrii_k_m dishanyaa_shrii_k_m 92 Jul 25 23:23 permission.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ chmod 333 permission.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ ls -l
+total 4
+--wx-wx-wx 1 dishanyaa_shrii_k_m dishanyaa_shrii_k_m 92 Jul 25 23:23 permission.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ chmod 777 permission.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ ls -l
+total 4
+-rwxrwxrwx 1 dishanyaa_shrii_k_m dishanyaa_shrii_k_m 92 Jul 25 23:23 permission.txt
+                    
+                                                                                                    
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ cd ..                                    
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1]
+└─$ ls   
+Day_1  Day_2
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1]
+└─$ cd Day_2
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ ls
+permission.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ ^[[200~touch chown_demo.txt
+zsh: bad pattern: ^[[200~touch
+
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ touch chown_demo.txt 
+
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ ls -l chown_demo.txt
+-rw-rw-r-- 1 dishanyaa_shrii_k_m dishanyaa_shrii_k_m 0 Jul 25 23:34 chown_demo.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ sudo adduser visrutha_padmanaban                                       
+[sudo] password for dishanyaa_shrii_k_m: 
+
+
+dSorry, try again.
+[sudo] password for dishanyaa_shrii_k_m: 
+ikus==Sorry, try again.
+[sudo] password for dishanyaa_shrii_k_m: 
+sudo: 3 incorrect password attempts
+
+
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ sudo adduser visrutha_padmanaban
+[sudo] password for dishanyaa_shrii_k_m: 
+New password: 
+Retype new password: 
+No password has been supplied.
+New password: 
+Retype new password: 
+Sorry, passwords do not match.
+passwd: Authentication token manipulation error
+passwd: password unchanged
+warn: `/bin/passwd visrutha_padmanaban' failed with status 10. Continuing.
+warn: wrong password given or password retyped incorrectly
+Try again? [y/N] y
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for visrutha_padmanaban
+Enter the new value, or press ENTER for the default
+	Full Name []: Visrutha
+
+
+Room Number []: 
+	Work Phone []: 
+	Home Phone []: 
+	Other []: 
+Is the information correct? [Y/n] y
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ sudo chown visrutha_padmanaban chown_demo.txt                     
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ ls -l chown_demo.txt
+-rw-rw-r-- 1 visrutha_padmanaban dishanyaa_shrii_k_m 0 Jul 25 23:34 chown_demo.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ sudo chown dishanyaa_shrii_k_m:dishanyaa_shrii_k_m  chown_demo.txt
+
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ ls -l chown_demo.txt
+-rw-rw-r-- 1 dishanyaa_shrii_k_m dishanyaa_shrii_k_m 0 Jul 25 23:34 chown_demo.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ groups                                 
+dishanyaa_shrii_k_m adm dialout cdrom floppy sudo audio dip video plugdev users netdev scanner bluetooth lpadmin wireshark kaboxer
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ touch group_practice.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ ls                  
+chown_demo.txt  group_practice.txt  permission.txt
+
+
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ groups
+dishanyaa_shrii_k_m adm dialout cdrom floppy sudo audio dip video plugdev users netdev scanner bluetooth lpadmin wireshark kaboxer
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ sudo whoami
+
+[sudo] password for dishanyaa_shrii_k_m: 
+root
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ ls -l /usr/bin/passwd
+
+-rwsr-xr-x 1 root root 118168 Apr 19 15:50 /usr/bin/passwd
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/D
+
+└─$ sudo find / -perm -4000 2>/dev/null
+
+
+/usr/bin/passwd
+/usr/bin/kismet_cap_nrf_51822
+/usr/bin/kismet_cap_nrf_mousejack
+/usr/bin/rsh-redone-rlogin
+/usr/bin/newgrp
+/usr/bin/pkexec
+/usr/bin/kismet_cap_ubertooth_one
+/usr/bin/kismet_cap_ti_cc_2540
+/usr/bin/mount
+/usr/bin/umount
+/usr/bin/sudo
+/usr/bin/rsh-redone-rsh
+/usr/bin/gpasswd
+/usr/bin/kismet_cap_ti_cc_2531
+/usr/bin/kismet_cap_linux_wifi
+/usr/bin/su
+/usr/bin/kismet_cap_nxp_kw41z
+/usr/bin/chfn
+/usr/bin/kismet_cap_hak5_wifi_coconut
+/usr/bin/kismet_cap_rz_killerbee
+/usr/bin/ntfs-3g
+/usr/bin/chsh
+/usr/bin/kismet_cap_linux_bluetooth
+/usr/bin/kismet_cap_nrf_52840
+/usr/bin/fusermount3
+/usr/lib/chromium/chrome-sandbox
+/usr/lib/xorg/Xorg.wrap
+/usr/lib/polkit-1/polkit-agent-helper-1
+/usr/lib/dbus-1.0/dbus-daemon-launch-helper
+/usr/lib/openssh/ssh-keysign
+/usr/lib/mysql/plugin/auth_pam_tool_dir/auth_pam_tool
+/usr/sbin/pppd
+/usr/sbin/mount.cifs
+/usr/sbin/mount.nfs
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ touch testfile.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ chmod 4755 testfile
+chmod: cannot access 'testfile': No such file or directory
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ chmod 4755 testfile.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ ^[[200~ls -l testfile~
+zsh: bad pattern: ^[[200~ls
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ ls -l testfile.txt
+-rwsr-xr-x 1 dishanyaa_shrii_k_m dishanyaa_shrii_k_m 0 Jul 26 00:18 testfile.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ sudo find / -perm -4000 2>/dev/null | head -n 10
+
+/home/dishanyaa_shrii_k_m/Week_1/Day_2/testfile.txt
+/usr/bin/passwd
+/usr/bin/kismet_cap_nrf_51822
+/usr/bin/kismet_cap_nrf_mousejack
+/usr/bin/rsh-redone-rlogin
+/usr/bin/newgrp
+/usr/bin/pkexec
+/usr/bin/kismet_cap_ubertooth_one
+/usr/bin/kismet_cap_ti_cc_2540
+/usr/bin/mount
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ usr/bin/newgrp
+/usr/bin/pkexec
+
+zsh: no such file or directory: usr/bin/newgrp
+┌──(root㉿kali)-[~]
+└─# touch suid-test
+                                                                                
+┌──(root㉿kali)-[~]
+└─# chmod 4755 suid-test
+                                                                                
+┌──(root㉿kali)-[~]
+└─# ls -l suid-test
+-rwsr-xr-x 1 root root 0 Jul 26 00:20 suid-test
+                                                                                
+┌──(root㉿kali)-[~]
+└─# exit                
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ script day2_terminal_log.txt
+
+Script started, output log file is 'day2_terminal_log.txt'.
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ ls
+chown_demo.txt         group_practice.txt  testfile.txt
+day2_terminal_log.txt  permission.txt
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ exit             
+Script done.
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ cat day2_terminal_log.txt
+
+                                                                                
+┌──(dishanyaa_shrii_k_m㉿kali)-[~/Week_1/Day_2]
+└─$ 
+

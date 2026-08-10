@@ -1,0 +1,7 @@
+### Network Interface Practice - Day 5
+
+- Loopback IP: 127.0.0.1
+- Wireless IP: 172.16.165.14
+- Ping before down: ✅ success
+- After `wlan0 down`: ❌ failed
+- After `wlan0 up`: ✅ success restored
