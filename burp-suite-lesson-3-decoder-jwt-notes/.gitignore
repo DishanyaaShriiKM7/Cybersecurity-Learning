@@ -1,0 +1,6 @@
+*.burp
+*.har
+*.pcap
+*.pcapng
+.env
+private_evidence/
