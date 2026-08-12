@@ -1,0 +1,9 @@
+# Local Burp/project files and potentially sensitive captures
+*.burp
+*.burp-project
+*.har
+*.pcap
+*.pcapng
+*.log
+raw/
+unredacted/
