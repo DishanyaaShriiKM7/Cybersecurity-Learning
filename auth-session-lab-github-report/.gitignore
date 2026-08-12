@@ -1,0 +1,21 @@
+# Burp / proxy artifacts
+*.burp
+*.burp2
+*.har
+*.xml
+*.log
+
+# Secrets / local files
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+raw/
+unredacted/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
